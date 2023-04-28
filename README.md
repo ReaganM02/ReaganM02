@@ -1,4 +1,4 @@
-<h1 align="center">👨🏼‍💻 Reagan Mahinay: Full-stack Web App Developer Focused on User Experience and Results</h1>
+<h1 align="center">👨🏼‍💻 Full-stack Web App Developer Focused on User Experience and Results</h1>
 <h3 align="center">Transforming Your Ideas into High-Performance Online Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reaganm02&label=Profile%20views&color=0e75b6&style=flat" alt="reaganm02" /> </p>
