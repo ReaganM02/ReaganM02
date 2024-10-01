@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reaganm02&label=Profile%20views&color=0e75b6&style=flat" alt="reaganm02" /> </p>
 
-- 💬 Ask me about **Nuxt3, MongoDB with Nuxt, Tailwind, CSS**
+- 💬 **Nuxt3, MongoDB with Nuxt, Tailwind, CSS, Wordpress, Wordpress Plugins, Woocommerce**
 
 - 📫 How to reach me **reagansoftwaredev@gmail.com**
 
