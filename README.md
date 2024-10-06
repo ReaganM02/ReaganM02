@@ -1,8 +1,6 @@
 <h1 align="center">👨🏼‍💻 Junior Full-stack Web App Developer Focused on User Experience and Results</h1>
 <h3 align="center">Transforming Your Ideas into High-Performance Online Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reaganm02&label=Profile%20views&color=0e75b6&style=flat" alt="reaganm02" /> </p>
-
 - 💬 **Nuxt3, MongoDB with Nuxt, Tailwind, CSS, Wordpress, Wordpress Plugins, Woocommerce**
 
 - 📫 How to reach me **reagansoftwaredev@gmail.com**
