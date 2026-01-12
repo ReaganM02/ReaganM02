@@ -11,5 +11,18 @@ Senior WordPress and WooCommerce developer with 8+ years of experience building,
 </p>
 
 <h3 align="left">Tools & Technologies I Use in Production</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
+<h5>Backend</h5>
+<p align="left" style="display:flex;">
+   <img src="http://reagandev.com/wp-content/uploads/2026/01/wordpress.svg" width="40" height="40"/>
+   <img src="http://reagandev.com/wp-content/uploads/2026/01/woo.png" width="70" />
+   <img src="http://reagandev.com/wp-content/uploads/2026/01/php.svg" width="40"/>
+   <img src="http://reagandev.com/wp-content/uploads/2026/01/mysql.svg" width="40"/>
+</p>
+<h5>Frotend</h5>
+<p>
+  <img src="http://reagandev.com/wp-content/uploads/2026/01/javascript.svg" width="40"/>
+  <img src="http://reagandev.com/wp-content/uploads/2026/01/nuxtjs.svg" width="40"/>
+  <img src="http://reagandev.com/wp-content/uploads/2026/01/vuejs.svg" width="40"/>
+  <img src="http://reagandev.com/wp-content/uploads/2026/01/typescript.svg" width="40"/>
+  <img src="http://reagandev.com/wp-content/uploads/2026/01/tailwindcss.svg" width="40"/>
+</p>
