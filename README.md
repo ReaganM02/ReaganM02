@@ -1,28 +1,47 @@
-<h1>Senior WordPress & WooCommerce Developer</h1>
-<h3>Building and maintaining production-ready e-commerce systems</h3>
+# 👋 Hi, I'm Reagan Mahinay  
+### Senior WordPress & WooCommerce Developer
 
-Senior WordPress and WooCommerce developer with 8+ years of experience building, extending, and maintaining production e-commerce systems. Experienced in custom plugin development, long-term system maintenance, API integrations, and frontend enhancements using modern JavaScript. Comfortable working remotely, owning features end-to-end, and making pragmatic engineering decisions under real-world constraints.
+Senior WordPress & Shopify Developer focused on **high-performance, conversion-driven builds** with clean, scalable code.
 
-- 📫 How to reach me **reagansoftwaredev@gmail.com**
+I don’t rely on page builders, I build systems that are **fast, maintainable, and built for real business growth**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reagan-mahinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reagan-mahinay" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Tools & Technologies I Use in Production</h3>
-<h5>Backend</h5>
-<p align="left" style="display:flex;">
-   <img src="http://reagandev.com/wp-content/uploads/2026/01/wordpress.svg" width="40" height="40"/>
-   <img src="http://reagandev.com/wp-content/uploads/2026/01/woo.png" width="70" />
-   <img src="http://reagandev.com/wp-content/uploads/2026/01/php.svg" width="40"/>
-   <img src="http://reagandev.com/wp-content/uploads/2026/01/mysql.svg" width="40"/>
-</p>
-<h5>Frotend</h5>
-<p>
-  <img src="http://reagandev.com/wp-content/uploads/2026/01/javascript.svg" width="40"/>
-  <img src="http://reagandev.com/wp-content/uploads/2026/01/nuxtjs.svg" width="40"/>
-  <img src="http://reagandev.com/wp-content/uploads/2026/01/vuejs.svg" width="40"/>
-  <img src="http://reagandev.com/wp-content/uploads/2026/01/typescript.svg" width="40"/>
-  <img src="http://reagandev.com/wp-content/uploads/2026/01/tailwindcss.svg" width="40"/>
-</p>
+## 🚀 What I Do
+
+### 🧩 WordPress Development (Performance-First)
+- Custom WordPress themes (no page builders)
+- Core Web Vitals & performance optimization
+- WooCommerce custom features & checkout UX
+- Secure, scalable plugin development
+- API integrations (Klaviyo, CRMs, third-party systems)
+- Site optimization & refactoring
+
+### 🔌 Custom Plugin Development
+- Build plugins tailored to business workflows
+- Extend WooCommerce (cart, checkout, subscriptions)
+- Clean, modular architecture (WP standards)
+- Lightweight, secure, extensible solutions
+
+### 🛍 Shopify Development
+- Custom Shopify themes (Liquid)
+- Feature enhancements for existing themes
+- Custom sections, blocks & layouts
+- Performance & UX optimization
+- Conversion-focused storefront improvements
+
+### ⚡ Conversion & UX Optimization
+- Speed, structure & user flow improvements
+- Mobile-first, high-converting layouts
+- Technical SEO (metadata, schema, performance)
+
+---
+
+## 🌐 Portfolio
+🔗 https://reagandev.com  
+
+## 📫 Contact
+📧 reagansoftwaredev@gmail.com  
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reagan%20Mahinay-blue?style=flat&logo=linkedin)](https://linkedin.com/in/reagan-mahinay)
